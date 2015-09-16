@@ -1,0 +1,19 @@
+{
+  "name": "awesome-es6",
+  "version": "0.1.0",
+  "description": "search github api to find new es6 projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "babel-node index.js"
+  },
+  "keywords": [
+    "es6",
+    "awesome"
+  ],
+  "author": "Tyr Chen",
+  "license": "MIT",
+  "dependencies": {
+    "github": "^0.2.4"
+  }
+}
